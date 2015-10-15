@@ -4,7 +4,7 @@ Download, explore, and wrangle the Titanic passenger manifest dataset with an ey
 This tutorial is based on the Kaggle Competition,["Predicting Survival Aboard the Titanic"](https://www.kaggle.com/c/titanic)
 
 ## STEP ONE: EXPLORATORY ANALYSIS
-__you will do this portion in the Data Wrangling course__
+_(You will do this portion in the Data Wrangling course.)_
 ### Things to think about
 1. How to explore a new dataset?
 2. What to look for in tabular data?
@@ -13,7 +13,7 @@ __you will do this portion in the Data Wrangling course__
 5. What to clean and how to clean it?
 
 ## STEP TWO: PREDICTIVE MODELING
-__you will do this portion in the Machine Learning course__
+_(You will do this portion in the Machine Learning course.)_
 ...(coming soon)
 
 See also:
