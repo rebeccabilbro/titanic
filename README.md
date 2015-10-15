@@ -17,7 +17,7 @@ _(You will do this portion in the Data Wrangling course.)_
 
 
 See also:
-1. [Baby steps to performing exploratory analysis in Python](http://www.analyticsvidhya.com/blog/2014/08/baby-steps-python-performing-exploratory-analysis-python/)
+1. [Baby steps to performing exploratory analysis in Python](http://www.analyticsvidhya.com/blog/2014/08/baby-steps-python-performing-exploratory-analysis-python/)     
 2. [Data munging using Pandas](http://www.analyticsvidhya.com/blog/2014/09/data-munging-python-using-pandas-baby-steps-python/)
 
 
