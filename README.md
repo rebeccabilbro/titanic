@@ -7,7 +7,9 @@ This tutorial is based on the Kaggle Competition,["Predicting Survival Aboard th
 _Licensed under CC BY-SA 3.0 via Wikimedia Commons: "Cd51-1000g" by Boris Lux_
 
 ## STEP ONE: EXPLORATORY ANALYSIS
-_(You will do this portion in the Data Wrangling course.)_
+Start by cloning this repository and opening up the file called "train.csv" (it's inside the data folder).
+
+
 ### Things to think about
 1. How to explore a new dataset?
 2. What to look for in tabular data?
