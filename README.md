@@ -1,11 +1,10 @@
 # Titanic
 Download, explore, and wrangle the Titanic passenger manifest dataset with an eye toward developing a predictive model for survival.
 
-![RMS Titanic , Ocean Liner, (1912)](https://github.com/rebeccabilbro/titanic/blob/master/images/Cd51-1000g.gif)
-"Cd51-1000g" by Boris Lux - Lux's Type Collection, Ocean liners - Titanic. Licensed under CC BY-SA 3.0 via Wikimedia Commons
-
-
 This tutorial is based on the Kaggle Competition,["Predicting Survival Aboard the Titanic"](https://www.kaggle.com/c/titanic)
+
+![RMS Titanic , Ocean Liner, (1912)](https://github.com/rebeccabilbro/titanic/blob/master/images/Cd51-1000g.gif)
+_Licensed under CC BY-SA 3.0 via Wikimedia Commons: "Cd51-1000g" by Boris Lux_
 
 ## STEP ONE: EXPLORATORY ANALYSIS
 _(You will do this portion in the Data Wrangling course.)_
