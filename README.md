@@ -19,7 +19,7 @@ __Others__: make sure the required libraries are installed by using:
 
 Then look inside the data folder and open ```train.csv``` to check out the dataset we'll be exploring today.  
 
-To start the lab, open up the iPython Notebook file: ```titanic.ipynb```.
+To start the lab, open up the iPython Notebook file: ```titanic_wrangling.ipynb```.
 
 
 ### Things to think about
