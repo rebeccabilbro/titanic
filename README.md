@@ -9,7 +9,9 @@ _Licensed under CC BY-SA 3.0 via Wikimedia Commons: "Cd51-1000g" by Boris Lux_
 ## STEP ONE: EXPLORATORY ANALYSIS
 Start by cloning this repository.
 
-Anaconda users: you should have everything you need. Others: make sure the required libraries are installed by using:
+Anaconda users: you should have everything you need.
+
+Others: make sure the required libraries are installed by using:
 
     pip install -r requirements.txt    
 
