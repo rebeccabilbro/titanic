@@ -19,8 +19,8 @@ Start by cloning this repository and opening up the file called "train.csv" (it'
 
 
 See also:     
-1. [Baby steps to performing exploratory analysis in Python](http://www.analyticsvidhya.com/blog/2014/08/baby-steps-python-performing-exploratory-analysis-python/)     
-2. [Data munging using Pandas](http://www.analyticsvidhya.com/blog/2014/09/data-munging-python-using-pandas-baby-steps-python/)
+[Baby steps to performing exploratory analysis in Python](http://www.analyticsvidhya.com/blog/2014/08/baby-steps-python-performing-exploratory-analysis-python/)     
+[Data munging using Pandas](http://www.analyticsvidhya.com/blog/2014/09/data-munging-python-using-pandas-baby-steps-python/)
 
 
 ## STEP TWO: PREDICTIVE MODELING
