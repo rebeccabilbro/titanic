@@ -1,0 +1,4 @@
+pandas==0.16.2
+numpy==1.9.2
+matplotlib==1.4.3
+sqlite3==3.8.6
