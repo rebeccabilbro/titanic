@@ -7,7 +7,15 @@ This tutorial is based on the Kaggle Competition,["Predicting Survival Aboard th
 _Licensed under CC BY-SA 3.0 via Wikimedia Commons: "Cd51-1000g" by Boris Lux_
 
 ## STEP ONE: EXPLORATORY ANALYSIS
-Start by cloning this repository and opening up the file called "train.csv" (it's inside the data folder).
+Start by cloning this repository.
+
+Anaconda users: you should have everything you need. Others: make sure the required libraries are installed by using:
+
+    pip install -r requirements.txt    
+
+Then look inside the data folder and open 'train.csv' to check out the dataset we'll be exploring today.  
+
+To start the lab, open up the iPython Notebook file: 'titanic.ipynb'
 
 
 ### Things to think about
