@@ -9,7 +9,7 @@ _Licensed under CC BY-SA 3.0 via Wikimedia Commons: "Cd51-1000g" by Boris Lux_
 ## STEP ONE: EXPLORATORY ANALYSIS
 Start by cloning this repository.
 
-__Anaconda users__: you should have everything you need, but _if_ you find you are missing anything, type this into the command line:
+__Anaconda users__: you should have everything you need, but _if_ you find you are missing anything, type this into the command line (replace <package> with whatever package you want to install):
 
     conda install -c https://conda.anaconda.org/blaze <package>
 
