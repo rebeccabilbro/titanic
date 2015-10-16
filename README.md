@@ -9,15 +9,17 @@ _Licensed under CC BY-SA 3.0 via Wikimedia Commons: "Cd51-1000g" by Boris Lux_
 ## STEP ONE: EXPLORATORY ANALYSIS
 Start by cloning this repository.
 
-Anaconda users: you should have everything you need.
+__Anaconda users__: you should have everything you need, but _if_ you find you are missing anything, type this into the command line:
 
-Others: make sure the required libraries are installed by using:
+    conda install -c https://conda.anaconda.org/blaze <package>
+
+__Others__: make sure the required libraries are installed by using:
 
     pip install -r requirements.txt    
 
-Then look inside the data folder and open 'train.csv' to check out the dataset we'll be exploring today.  
+Then look inside the data folder and open ```train.csv``` to check out the dataset we'll be exploring today.  
 
-To start the lab, open up the iPython Notebook file: 'titanic.ipynb'
+To start the lab, open up the iPython Notebook file: ```titanic.ipynb```.
 
 
 ### Things to think about
