@@ -76,20 +76,20 @@ __LINUX w/ Python 3__:
 Problems with installation? Check out: http://scikit-learn.org/stable/install.html
 
 
-### Key Concepts
-__Machine Learning__
+### Key Concepts    
+__Machine Learning__    
 
-__Classification__
+__Classification__    
 
-__Cross-Validation__
+__Cross-Validation__    
 http://scikit-learn.org/stable/modules/generated/sklearn.cross_validation.train_test_split.html
 
-### Key Tools in Scikit-Learn
-__Linear Regression__
+### Key Tools in Scikit-Learn    
+__Linear Regression__    
 http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
 
-__Random Forests__
+__Random Forests__    
 http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 
-__Support Vector Machines__
+__Support Vector Machines__    
 http://scikit-learn.org/stable/modules/svm.html
