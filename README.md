@@ -37,12 +37,10 @@ See also:
 
 ## STEP TWO: MACHINE LEARNING FROM DISASTER
 _(You will do this portion in the Machine Learning course.)_      
-Introduction to Scikit-Learn
 
-This tutorial is based on the following tutorials for Kaggle's titanic competition:
-    - https://www.kaggle.com/mlchang/titanic/logistic-model-using-scikit-learn/run/91385
-    - https://www.kaggle.com/c/titanic/details/getting-started-with-random-forests
-    - https://github.com/savarin/pyconuk-introtutorial/tree/master/notebooks
+Welcome back! Navigate to your titanic folder in the command line and then type to get the latest adds to the repo
+
+    git pull
 
 __Anaconda users__: you already have Scikit-learn! _If_ you ever find you are missing anything, type this into the command line:
 
@@ -93,3 +91,9 @@ http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestCl
 
 __Support Vector Machines__    
 http://scikit-learn.org/stable/modules/svm.html
+
+### Sources
+This tutorial is based on the following tutorials for Kaggle's titanic competition:
+    - https://www.kaggle.com/mlchang/titanic/logistic-model-using-scikit-learn/run/91385
+    - https://www.kaggle.com/c/titanic/details/getting-started-with-random-forests
+    - https://github.com/savarin/pyconuk-introtutorial/tree/master/notebooks
