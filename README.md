@@ -44,7 +44,7 @@ This tutorial is based on the following tutorials for Kaggle's titanic competiti
     - https://www.kaggle.com/c/titanic/details/getting-started-with-random-forests
     - https://github.com/savarin/pyconuk-introtutorial/tree/master/notebooks
 
-__Anaconda users__: you should have everything you need, but _if_ you find you are missing anything, type this into the command line:
+__Anaconda users__: you already have Scikit-learn! _If_ you ever find you are missing anything, type this into the command line:
 
     conda install -c https://conda.anaconda.org/blaze <package>
 
