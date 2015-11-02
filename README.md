@@ -7,7 +7,9 @@ This tutorial is based on the Kaggle Competition,["Predicting Survival Aboard th
 _Licensed under CC BY-SA 3.0 via Wikimedia Commons: "Cd51-1000g" by Boris Lux_
 
 ## STEP ONE: EXPLORATORY ANALYSIS
-Start by cloning this repository.
+Start by cloning this repository. Type this into the command line:
+
+    git clone https://github.com/rebeccabilbro/titanic.git titanic
 
 __Anaconda users__: you should have everything you need, but _if_ you find you are missing anything, type this into the command line:
 
@@ -19,7 +21,15 @@ __Others__: make sure the required libraries are installed by using:
 
 Then look inside the data folder and open ```train.csv``` to check out the dataset we'll be exploring today.  
 
-To start the lab, open up the iPython Notebook file: ```titanic_wrangling.ipynb```.
+To start the lab, navigate into the project structure:
+
+    cd titanic
+
+Now launch iPython by typing this into the command line:
+
+    iPython notebook
+
+Then open up the iPython Notebook file: ```titanic_wrangling.ipynb```.
 
 
 ### Things to think about
