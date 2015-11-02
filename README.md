@@ -35,6 +35,61 @@ See also:
 [Data munging using Pandas](http://www.analyticsvidhya.com/blog/2014/09/data-munging-python-using-pandas-baby-steps-python/)
 
 
-## STEP TWO: PREDICTIVE MODELING
+## STEP TWO: MACHINE LEARNING FROM DISASTER
 _(You will do this portion in the Machine Learning course.)_      
-...coming soon
+Introduction to Scikit-Learn
+
+This tutorial is based on the following tutorials for Kaggle's titanic competition:
+    - https://www.kaggle.com/mlchang/titanic/logistic-model-using-scikit-learn/run/91385
+    - https://www.kaggle.com/c/titanic/details/getting-started-with-random-forests
+    - https://github.com/savarin/pyconuk-introtutorial/tree/master/notebooks
+
+__Anaconda users__: you should have everything you need, but _if_ you find you are missing anything, type this into the command line:
+
+    conda install -c https://conda.anaconda.org/blaze <package>
+
+Everyone else, make sure Scikit-learn is installed:
+
+__WINDOWS USERS__: 
+
+    pip install -U scikit-learn
+
+__MAC OSX USERS__: 
+
+	pip install -U numpy scipy scikit-learn
+
+__LINUX w/ Python 2__: 	
+
+	sudo apt-get install build-essential python-dev python-setuptools \
+                     python-numpy python-scipy \
+                     libatlas-dev libatlas3gf-base
+	sudo apt-get install python-matplotlib
+
+__LINUX w/ Python 3__: 
+
+ 	sudo apt-get install build-essential python3-dev python3-setuptools \
+ 					 python3-numpy python3-scipy \
+                     libatlas-dev libatlas3gf-base
+    sudo apt-get install python-matplotlib
+
+
+Problems with installation? Check out: http://scikit-learn.org/stable/install.html
+
+
+### Key Concepts
+__Machine Learning__
+
+__Classification__
+
+__Cross-Validation__
+http://scikit-learn.org/stable/modules/generated/sklearn.cross_validation.train_test_split.html
+
+### Key Tools in Scikit-Learn
+__Linear Regression__
+http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+
+__Random Forests__
+http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+
+__Support Vector Machines__
+http://scikit-learn.org/stable/modules/svm.html
