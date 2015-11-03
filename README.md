@@ -82,6 +82,12 @@ __Classification__
 __Cross-Validation__    
 http://scikit-learn.org/stable/modules/generated/sklearn.cross_validation.train_test_split.html
 
+__Model Evaluation__    
+    -Classification reports
+    -Precision recall curves
+    -Mean squared error
+    -Coefficient of determination   
+
 ### Key Tools in Scikit-Learn    
 __Linear Regression__    
 http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
