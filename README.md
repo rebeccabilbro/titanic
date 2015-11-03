@@ -82,6 +82,13 @@ __Classification__
 __Cross-Validation__    
 http://scikit-learn.org/stable/modules/generated/sklearn.cross_validation.train_test_split.html
 
+__Model Evaluation__    
+    -Classification reports
+    -Precision recall curves
+    -Mean squared error
+    -Coefficient of determination    
+
+
 ### Key Tools in Scikit-Learn    
 __Linear Regression__    
 http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
@@ -91,6 +98,7 @@ http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestCl
 
 __Support Vector Machines__    
 http://scikit-learn.org/stable/modules/svm.html
+
 
 ### Sources
 This tutorial is based on the following tutorials for Kaggle's titanic competition:
