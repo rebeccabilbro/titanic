@@ -38,7 +38,7 @@ See also:
 ## STEP TWO: MACHINE LEARNING FROM DISASTER
 _(You will do this portion in the Machine Learning course.)_      
 
-Welcome back! Star by navigating to your titanic folder in the command line and then type to get the latest adds to the repo
+Welcome back! Start by navigating to your titanic folder in the command line and then type to get the latest adds to the repo
 
     git pull
 
@@ -52,11 +52,11 @@ __Anaconda users__: you already have Scikit-learn! _If_ you ever find you are mi
 
 Everyone else, make sure Scikit-learn is installed:
 
-__WINDOWS USERS__: 
+__WINDOWS USERS__:
 
     pip install -U scikit-learn
 
-__MAC OSX USERS__: 
+__MAC OSX USERS__:
 
 	pip install -U numpy scipy scikit-learn
 
@@ -67,7 +67,7 @@ __LINUX w/ Python 2__:
                      libatlas-dev libatlas3gf-base
 	sudo apt-get install python-matplotlib
 
-__LINUX w/ Python 3__: 
+__LINUX w/ Python 3__:
 
  	sudo apt-get install build-essential python3-dev python3-setuptools \
  					 python3-numpy python3-scipy \
