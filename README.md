@@ -101,6 +101,6 @@ http://scikit-learn.org/stable/modules/svm.html
 
 ### Sources
 This tutorial is based on the following tutorials for Kaggle's titanic competition:
-    -https://www.kaggle.com/mlchang/titanic/logistic-model-using-scikit-learn/run/91385
-    -https://www.kaggle.com/c/titanic/details/getting-started-with-random-forests
-    -https://github.com/savarin/pyconuk-introtutorial/tree/master/notebooks
+       https://www.kaggle.com/mlchang/titanic/logistic-model-using-scikit-learn/run/91385
+       https://www.kaggle.com/c/titanic/details/getting-started-with-random-forests
+       https://github.com/savarin/pyconuk-introtutorial/tree/master/notebooks
