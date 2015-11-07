@@ -38,7 +38,9 @@ See also:
 ## STEP TWO: MACHINE LEARNING FROM DISASTER
 _(You will do this portion in the Machine Learning course.)_      
 
-Welcome back! The iPython Notebook for this class is called "titanicML_workshop.ipynb."    
+Welcome back! The iPython Notebook for this class is called "titanicML_workshop.ipynb." To get it, navigate in the command line to the titanic repository that you cloned for the last class, and type:
+
+    git pull origin master
 
 
 If you haven't already installed Scikit-learn, do that now.    
