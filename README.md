@@ -76,6 +76,8 @@ __LINUX w/ Python 3__:
 
 Problems with installation? Check out: http://scikit-learn.org/stable/install.html
 
+If you get hung up with the installation or the repo update, you can also get the gist:     https://gist.github.com/rebeccabilbro/d40599f4ec96aa21dc48
+
 
 ### Key Concepts    
 __Machine Learning__    
