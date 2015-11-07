@@ -6,7 +6,7 @@ This tutorial is based on the Kaggle Competition,["Predicting Survival Aboard th
 ![RMS Titanic , Ocean Liner, (1912)](https://github.com/rebeccabilbro/titanic/blob/master/images/Cd51-1000g.gif)
 _Licensed under CC BY-SA 3.0 via Wikimedia Commons: "Cd51-1000g" by Boris Lux_
 
-## STEP ONE: EXPLORATORY ANALYSIS
+## STEP ONE: EXPLORATORY ANALYSIS - We've done this part already...scroll down.
 Start by cloning this repository.
 
 __Anaconda users__: you should have everything you need, but _if_ you find you are missing anything, type this into the command line:
