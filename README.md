@@ -38,13 +38,10 @@ See also:
 ## STEP TWO: MACHINE LEARNING FROM DISASTER
 _(You will do this portion in the Machine Learning course.)_      
 
-Welcome back! Start by navigating to your titanic folder in the command line and get the latest adds to the repo
-
-    git pull
+Welcome back! The iPython Notebook for this class is called "titanicML_workshop.ipynb."    
 
 
 If you haven't already installed Scikit-learn, do that now.    
-
 
 __Anaconda users__: you already have Scikit-learn! _If_ you ever find you are missing anything, type this into the command line:
 
